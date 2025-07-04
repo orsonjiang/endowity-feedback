@@ -1,6 +1,6 @@
 # Endowity Feedback
 
-Welcome to the official feedback repository for **Endowity** - the smart expense tracking and bill splitting platform.
+Welcome to the official feedback repository for **[Endowity](https://endowity.com)** - the smart expense tracking and bill splitting platform.
 
 ## 🎯 Purpose
 
